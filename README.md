@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [kallavero.fr](kallavero.fr)
 
-- 💬 Ask me about **React, TYpeScript**
+- 💬 Ask me about **React, TypeScript**
 
 
 <h3 align="left">Connect with me:</h3>

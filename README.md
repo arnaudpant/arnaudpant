@@ -9,9 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [kallavero.fr](kallavero.fr)
 
-- 💬 Ask me about **React, JS**
+- 💬 Ask me about **React, TYpeScript**
 
-- 📫 How to reach me **akallavero@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

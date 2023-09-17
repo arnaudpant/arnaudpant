@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kallavero" target="blank"><img src="https://img.shields.io/twitter/follow/kallavero?logo=twitter&style=for-the-badge" alt="kallavero" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [kallavero.fr](kallavero.fr)
+- 👨‍💻 My PortFolio is available at [kallavero.fr](https://kallavero.fr)
 
 - 💬 Ask me about **React, TypeScript**
 

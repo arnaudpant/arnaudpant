@@ -17,7 +17,7 @@
 
 
 ### Contrat
-<p>CDI / CDD</p>
+<p>Régie</p>
 
 
 ## A propos de moi

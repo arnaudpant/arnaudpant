@@ -25,7 +25,7 @@
 
 - **Email**: [M'envoyer un mail](mailto:arnaud.pantenier@gmail.com)
 - **LinkedIn**: [Consulter mon LinkedIn](https://bit.ly/arnaudpant-linkedIn)
-- **Call with me**:[Réservez un call de 20min](https://calendly.com/arnaud-pantenier/20min_call)
+- **Call with me**: [Réservez un call de 20min](https://calendly.com/arnaud-pantenier/20min_call)
 
 ---
 

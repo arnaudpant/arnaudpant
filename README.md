@@ -19,12 +19,21 @@
 ### Contrat
 <p>Régie</p>
 
+---
+
+## 📫 Contact
+
+- **Email**: [M'envoyer un mail](mailto:arnaud.pantenier@gmail.com)
+- **LinkedIn**: [Consulter mon LinkedIn](https://www.linkedin.com/in/arnaud-pantenier/)
+- **Call with me**:[Réservez un call de 20min](https://calendly.com/arnaud-pantenier/20min_call)
+
+---
 
 ## A propos de moi
 
-🎖️ Toutes les infos [ici](https://continuous-sandalwood-0d9.notion.site/Hello-This-is-Arnaud-c8cf4e04a7474303877b86e5a6acd5b2)
+🎖️ Toutes les infos [ici](https://bit.ly/this_is_arnaud)
 
-👨‍💻 Mon PortFolio [ici](https://arnaud-pantenier.vercel.app/)
+👨‍💻 Mon PortFolio [ici](https://bit.ly/arnaudpant)
 
 👔 Mon CV [ici](https://flowcv.com/resume/kgrlfo7rug)
 
@@ -99,14 +108,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnaudpant&label=Profile%20views&color=0e75b6&style=flat" alt="arnaudpant" /></p>
 
-
-
-## 📫 Contact
-
-- **Email**: [M'envoyer un mail](mailto:arnaud.pantenier@gmail.com)
-- **LinkedIn**: [Consulter mon LinkedIn](https://www.linkedin.com/in/arnaud-pantenier/)
-
----
 
 <div>
   <img align="center" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh1NjNkNWtwaHF5NW4xMWo0bzVjZW9sZjl0cDV6YzlnaXkwNzY3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />

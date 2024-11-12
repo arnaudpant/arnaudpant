@@ -24,7 +24,7 @@
 ## 📫 Contact
 
 - **Email**: [M'envoyer un mail](mailto:arnaud.pantenier@gmail.com)
-- **LinkedIn**: [Consulter mon LinkedIn](https://www.linkedin.com/in/arnaud-pantenier/)
+- **LinkedIn**: [Consulter mon LinkedIn](https://bit.ly/arnaudpant-linkedIn)
 - **Call with me**:[Réservez un call de 20min](https://calendly.com/arnaud-pantenier/20min_call)
 
 ---
@@ -35,7 +35,7 @@
 
 👨‍💻 Mon PortFolio [ici](https://bit.ly/arnaudpant)
 
-👔 Mon CV [ici](https://flowcv.com/resume/kgrlfo7rug)
+👔 Mon CV [ici](https://bit.ly/arnaudpant-cv)
 
 ---
 

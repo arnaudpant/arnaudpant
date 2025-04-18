@@ -27,11 +27,9 @@
 
 ## A propos de moi
 
-🎖️ Toutes les infos [ici](https://bit.ly/this_is_arnaud)
+🎖️ Toutes les infos [ici]([https://bit.ly/this_is_arnaud](https://continuous-sandalwood-0d9.notion.site/Hello-This-is-Arnaud-c8cf4e04a7474303877b86e5a6acd5b2))
 
-👨‍💻 Mon PortFolio [ici](https://bit.ly/arnaudpant)
-
-👔 Mon CV [ici](https://bit.ly/arnaudpant-cv)
+👨‍💻 Mon PortFolio [ici]([https://bit.ly/arnaudpant](https://arnaud-pantenier.vercel.app/))
 
 ---
 

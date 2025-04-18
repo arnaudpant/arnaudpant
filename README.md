@@ -1,6 +1,6 @@
 # 👋 Bonjour,  je suis Arnaud!
 
-### 🌍 Développeur Web Front-End React #️⃣
+### 🌍 Développeur Web Front-End React | Astro #️⃣
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -16,14 +16,10 @@
 <p>Je suis disponible pour rejoindre votre équipe sur site ou en remote partiel, en Lorraine et au Luxembourg 🇱🇺 </p>
 
 
-### Contrat
-<p>Régie</p>
-
 ---
 
 ## 📫 Contact
 
-- **Email**: [M'envoyer un mail](mailto:arnaud.pantenier@gmail.com)
 - **LinkedIn**: [Consulter mon LinkedIn](https://bit.ly/arnaudpant-linkedIn)
 - **Call with me**: [Réservez un call de 20min](https://calendly.com/arnaud-pantenier/20min_call)
 
